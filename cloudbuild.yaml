@@ -1,3 +1,4 @@
+logsBucket: 'gs://staging.student-01084.appspot.com/buildlogs'
 steps:
 - name: gcr.io/cloud-builders/gcloud
   args:
